@@ -1,3 +1,5 @@
+**THIS REPO IS A PRIVATE JOKE.**
+
 <div align="center"> <a href="https://fastify.dev/">
     <img
       src="https://github.com/fastify/graphics/raw/HEAD/fastify-landscape-outlined.svg"
